@@ -277,18 +277,5 @@ Remember to update the `VITE_BACKEND_URL` in the frontend `.env` files to your p
 - All dates are stored in `DD_MM_YYYY` format
 - Currency symbol is configurable via environment variables
 
-## 🤝 Contributing
 
-Feel free to submit issues and enhancement requests!
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-Developed as a comprehensive medical appointment management system.
-
----
-
-**Note**: Make sure to keep your `.env` files secure and never commit them to version control. Use `.env.example` as a template for other developers.
+https://neurica-admin.vercel.app
