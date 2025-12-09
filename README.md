@@ -57,7 +57,7 @@ A comprehensive full-stack medical appointment management system built with the 
 ## 📁 Project Structure
 
 ```
-NeuraCare-main/
+Neurica-main/
 ├── admin/              # Admin & Doctor dashboard (React app)
 │   ├── src/
 │   │   ├── components/
