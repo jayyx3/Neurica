@@ -7,7 +7,7 @@ const About = () => {
       {/* Hero Section */}
       <div className="bg-gradient-to-r from-blue-400 to-green-400 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-4xl font-bold mb-3">About Nuerica</h1>
+          <h1 className="text-4xl font-bold mb-3">About Neurica</h1>
           <p className="text-xl text-blue-50">Your trusted partner in healthcare management</p>
         </div>
       </div>
